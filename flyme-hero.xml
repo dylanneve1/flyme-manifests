@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+ <!--HEROLTE-->
+ <project name="dylanneve1/flyme_device_herolte" path="devices/herolte" remote="github" revision="master" />
+
+ <!--HERO2LTE-->
+ <project name="dylanneve1/flyme_device_hero2lte" path="devices/hero2lte" remote="github" revision="master" />
+
+</manifest>
